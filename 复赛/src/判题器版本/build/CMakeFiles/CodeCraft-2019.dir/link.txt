@@ -1,0 +1,1 @@
+/usr/bin/c++    -O3 -Wall -std=c++11   CMakeFiles/CodeCraft-2019.dir/CodeCraft-2019.cpp.o CMakeFiles/CodeCraft-2019.dir/method.cpp.o  -o /home/wzd/CodeCraft2019/复赛/src/判题器版本/bin/CodeCraft-2019 -rdynamic 

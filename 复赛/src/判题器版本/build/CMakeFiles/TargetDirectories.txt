@@ -1,0 +1,3 @@
+/home/wzd/CodeCraft2019/复赛/src/判题器版本/build/CMakeFiles/edit_cache.dir
+/home/wzd/CodeCraft2019/复赛/src/判题器版本/build/CMakeFiles/rebuild_cache.dir
+/home/wzd/CodeCraft2019/复赛/src/判题器版本/build/CMakeFiles/CodeCraft-2019.dir

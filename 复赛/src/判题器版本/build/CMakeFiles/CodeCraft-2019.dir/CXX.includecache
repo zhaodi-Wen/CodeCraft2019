@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wzd/CodeCraft2019/复赛/src/判题器版本/CodeCraft-2019/CodeCraft-2019.cpp
+iostream
+-
+method.h
+/home/wzd/CodeCraft2019/复赛/src/判题器版本/CodeCraft-2019/method.h
+
+/home/wzd/CodeCraft2019/复赛/src/判题器版本/CodeCraft-2019/method.cpp
+method.h
+/home/wzd/CodeCraft2019/复赛/src/判题器版本/CodeCraft-2019/method.h
+stdlib.h
+-
+
+/home/wzd/CodeCraft2019/复赛/src/判题器版本/CodeCraft-2019/method.h
+string
+-
+vector
+-
+queue
+-
+ostream
+-
+fstream
+-
+iostream
+-
+sstream
+-
+unordered_map
+-
+math.h
+-
+algorithm
+-
+numeric
+-
+
