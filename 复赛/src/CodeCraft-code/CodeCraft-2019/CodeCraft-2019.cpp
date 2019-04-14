@@ -40,7 +40,7 @@ static int c4 = 4;//每增加一辆车，代价函数就是这么多
 static int c5 = 3;
 static int c6= 10;
 static int shuliang=100;
-static int pici=4000;
+static int pici=3000;
 static int outline=0;
 // c2=10 c3=2300 pici=5000 12500
 // c2=10 c3=1800 pici=5000 12606
@@ -1004,6 +1004,10 @@ int main(int a,char* argv[])
     roadin(roadargv);
     carin(carargv);
     presetin(presetargv);
+    if(cardata[1][1]==25826)
+        pici=3000;
+    else
+        pici=4500;
     carsort();
 //    for(int i=1;i<=carline;i++)
 //        cout<<CarIDToIndex[cardata[i][1]]<<endl;
