@@ -1,0 +1,3 @@
+/media/wzd/File2/大学项目/codedraft/c/2/2019软挑-SDK_复赛/SDK/SDK_C++/build/CMakeFiles/edit_cache.dir
+/media/wzd/File2/大学项目/codedraft/c/2/2019软挑-SDK_复赛/SDK/SDK_C++/build/CMakeFiles/rebuild_cache.dir
+/media/wzd/File2/大学项目/codedraft/c/2/2019软挑-SDK_复赛/SDK/SDK_C++/build/CMakeFiles/CodeCraft-2019.dir

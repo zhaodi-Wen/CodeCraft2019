@@ -1,0 +1,1 @@
+/usr/bin/c++    -O3 -Wall -std=c++11   CMakeFiles/CodeCraft-2019.dir/CodeCraft-2019.cpp.o  -o /media/wzd/File2/大学项目/codedraft/c/2/2019软挑-SDK_复赛/SDK/SDK_C++/bin/CodeCraft-2019 -rdynamic 

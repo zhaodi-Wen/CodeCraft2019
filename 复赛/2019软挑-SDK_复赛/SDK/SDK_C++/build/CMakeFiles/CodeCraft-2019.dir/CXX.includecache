@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/wzd/File2/大学项目/codedraft/c/2/2019软挑-SDK_复赛/SDK/SDK_C++/CodeCraft-2019/CodeCraft-2019.cpp
+iostream
+-
+fstream
+-
+cmath
+-
+
